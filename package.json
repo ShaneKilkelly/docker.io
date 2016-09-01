@@ -22,7 +22,7 @@
   "dependencies": {
     "docker-modem": "*",
     "flat-validator": "git://github.com/appersonlabs/flat-validator.git",
-    "node-v8-clone": "~0.4.5"
+    "lodash": "^4.15.0"
   },
   "devDependencies": {
     "chai": "~1.8.0",
